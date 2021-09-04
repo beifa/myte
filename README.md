@@ -9,3 +9,9 @@
 [Ссылка для скачивания данных](https://yadi.sk/d/Yv86Kan3BWoEnQ)
 
 [Пример видео с шахматной партией со смартфона](https://yadi.sk/i/y1Lp_oILRiEUgQ)
+
+Result model (used only 200 images, train:160  valid:40):
+
+IOU                        |  Train loss
+:-------------------------:|:-------------------------:
+<img src="image/iou.png" width="400"> | <img src="image/tr_loss.png" width="400">
