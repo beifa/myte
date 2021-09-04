@@ -6,13 +6,11 @@
 Ваш выбор алгоритма машинного обучения, обучить на xtrain и
 предсказать ytest для xtest.
 
-Visual train images:
+Visual train image:
 
 filename3618               |filename6244               |filename8170
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="image/filename3618.jpeg" width="300"> | <img src="image/filename6244.jpeg" width="300"> | <img src="image/filename8170.jpeg" width="300">
-
-
 
 [Ссылка для скачивания данных](https://yadi.sk/d/Yv86Kan3BWoEnQ)
 
